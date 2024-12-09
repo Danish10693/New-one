@@ -1,0 +1,14 @@
+var i=3;
+
+while (i<candidate){
+
+    if (candidate%i===1){
+
+        i=candidate;
+
+        isPrime=false;
+    }
+
+    i++;
+
+} 
